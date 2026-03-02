@@ -4,7 +4,10 @@ metadata:
   name: dho-ambulance-ufe-content
 spec:
   microFrontend: dho-ambulance-ufe
-  element: dho-ambulance-wl-list
+  element: dho-ambulance-wl-app
+  attributes:
+    - name: base-path
+      value: /dho-ambulance-wl/
   displayRules:
     - allOf:
       - context-name: main-content
