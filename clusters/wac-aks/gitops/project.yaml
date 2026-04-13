@@ -6,7 +6,7 @@ spec:
   title: "Zoznam čakajúcich dho"
   description: "Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii"
   authors: "Darius-Dusan Horvath"
-  azureLink: "https://<sub-domain>.azurewebsites.net"
+  azureLink: "https://dho-ambulance-ufe.azurewebsites.net"
   frontendRepoUrl: "https://github.com/HorvathDarius/dho-ambulance-ufe"
   backendRepoUrl: "https://github.com/HorvathDarius/ambulance-webapi"
   gitopsRepoUrl: "https://github.com/HorvathDarius/ambulance-gitops"
