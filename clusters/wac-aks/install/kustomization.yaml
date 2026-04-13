@@ -12,6 +12,7 @@ labels:
 
 resources:
 - ../../../apps/dho-ambulance-ufe
+- ../../../apps/dho-ambulance-webapi
 
 
 components:
